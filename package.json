@@ -1,0 +1,16 @@
+{
+  "name": "kafka-demo",
+  "version": "0.1.0",
+  "description": "Example of kafka producer and consumer using no-kafka on Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takashi Abe",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "kafka-node": "^4.0.2",
+    "no-kafka": "^3.4.3"
+  }
+}
